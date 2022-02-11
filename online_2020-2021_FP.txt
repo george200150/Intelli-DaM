@@ -1,4 +1,4 @@
-nota_finala,R1,P1,P2,P3,L1,L2,L3,Punctaj_seminar,Nr_prezente_seminar,Nota_FP
+final_grade,R1,P1,P2,P3,L1,L2,L3,seminar_points,seminar_attendances,FP
 7,9,6.5,8.5,9.5,9.25,6,0,0.125,6,4
 7,9.5,9.75,9.7,9.9,9.5,8,10,0,7,5
 5,9,9.5,10,10,1,0,8,0,6,7

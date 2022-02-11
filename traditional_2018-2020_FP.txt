@@ -1,4 +1,4 @@
-nota_finala,R1,P1,P2,P3,L1,L2,L3,practic_prolog,practic_lisp,Punctaj_seminar,Nr_prezente_seminar,Nota_FP
+final_grade,R1,P1,P2,P3,L1,L2,L3,prolog_practic,lisp_practic,seminar_points,seminar_attendances,FP
 7,9,9,10,10,0,10,10,6.6,7.4,5,5,4
 4,8,6,6,0,6,0,0,10,0,2.5,5,4
 5,6,6,0,0,10,10,0,5.5,6.25,7.5,7,4
